@@ -236,13 +236,6 @@
 
 ### ✅ Task23
 
-**Matnni `upper` qilgach, faqat katta harflardan iboratligini tekshiring**
-
-| Input                       | Output |
-| --------------------------- | ------ |
-| `"hello"` | `True` |
-| `"Hello"` | `True` |
-
 ---
 
 ### ✅ Task24 – Email tekshiruv (Django user auth dan ilhomlangan)
